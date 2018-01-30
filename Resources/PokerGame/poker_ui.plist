@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>PokerGame/bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{5,5},{591,582}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{591,582}</string>
+			</dict>
+			<key>PokerGame/btn_g1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{934,5},{100,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{100,42}</string>
+			</dict>
+			<key>PokerGame/btn_g2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{934,115},{100,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{100,42}</string>
+			</dict>
+			<key>PokerGame/btn_o1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{933,225},{100,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{100,42}</string>
+			</dict>
+			<key>PokerGame/btn_o2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{926,335},{100,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{100,42}</string>
+			</dict>
+			<key>PokerGame/role_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{606,5},{157,157}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{157,157}</string>
+			</dict>
+			<key>PokerGame/role_box.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{773,5},{151,151}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{151,151}</string>
+			</dict>
+			<key>PokerGame/role1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{773,166},{150,150}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{150,150}</string>
+			</dict>
+			<key>PokerGame/role2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{766,326},{137,150}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{150,150}</string>
+			</dict>
+			<key>PokerGame/role3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{606,172},{150,150}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{150,150}</string>
+			</dict>
+			<key>PokerGame/circle.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{986,5},{32,32}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{32,32}</string>
+			</dict>
+			<key>PokerGame/btn_x2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{926,445},{50,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{50,50}</string>
+			</dict>
+			<key>PokerGame/btn_x1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{606,332},{50,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{50,50}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>poker_ui.png</string>
+			<key>realTextureFileName</key>
+			<string>poker_ui.png</string>
+			<key>size</key>
+			<string>{1023,592}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1023</integer>
+			<key>height</key>
+			<integer>592</integer>
+		</dict>
+	</dict>
+</plist>
